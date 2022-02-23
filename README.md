@@ -1,5 +1,5 @@
-# Hello world! I'm Matheus Arruda
-###### Game developer indie.
+# Hello world!
+###### I'm indie game developer.
 </br>
 
 ### Tech and Tools
