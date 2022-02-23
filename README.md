@@ -1,5 +1,5 @@
 # Hello world!
-###### I'm indie game developer.
+###### I'm software and game developer.
 </br>
 
 ### Tech and Tools
