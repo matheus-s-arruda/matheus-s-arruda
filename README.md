@@ -1,5 +1,6 @@
 # Hello world!
-###### I'm software and game developer.
+###### Sou um estudante de Gestão de TI , focado em Gestão de projetos e Desenvolvedor de software.
+
 </br>
 
 ### Techs
