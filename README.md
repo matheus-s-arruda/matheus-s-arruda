@@ -1,5 +1,5 @@
 # Hello world!
-###### Sou um estudante de Gestão de TI , focado em Gestão de projetos e Desenvolvedor de software.
+###### Gestor de TI, MBA em Gestão de projetos e Desenvolvedor de softwares.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="40" height="40"/>
 
